@@ -1,4 +1,4 @@
 # api
 
 
-example api for ecommerce website built using fast api
+example api for ecommerce website built using FastApi
